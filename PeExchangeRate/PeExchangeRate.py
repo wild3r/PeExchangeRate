@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+__author__ = 'Wilder.Hernandez'
 import bs4 as bs
 import urllib.request
 
